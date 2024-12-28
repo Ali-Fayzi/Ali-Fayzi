@@ -1,7 +1,7 @@
 # Welcome to Ali Feyzi's GitHub! 👋  
 
 🎓 **Master's in Artificial Intelligence**  
-💻 **AI Researcher | Educator | Developer**  
+💻 **Blockchain and AI Developer | Researcher | Educator**  
 
 Hello! I'm **Ali Feyzi**, a passionate developer, researcher, and teacher specializing in Artificial Intelligence, Machine Learning, and Blockchain Development. Here, you'll find a collection of my projects, learning materials, and research contributions aimed at empowering developers and students worldwide.  
 
