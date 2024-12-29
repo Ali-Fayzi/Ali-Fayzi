@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-fayzi" alt="ali-fayzi" /></a> </p> -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ali-Fayzi](https://github.com/Ali-Fayzi)
+- 👨‍💻 All of my projects are available at [https://github.com/Ali-Fayzi?tab=repositories](https://github.com/Ali-Fayzi)
 
 - 📫 How to reach me **a.fayzi@outlook.com**
 
