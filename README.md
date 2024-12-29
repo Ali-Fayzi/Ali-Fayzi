@@ -17,7 +17,7 @@
 <a href="mailto:a.fayzi@outlook.com"> <img src="https://img.shields.io/badge/Outlook-blue?style=flat" alt="Outlook logo" title="Outlook" height="25" /> </a>
 <a href="https://linkedin.com/in/ali-fayzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-fayzi" height="30" width="40" /></a>
 <a href="https://kaggle.com/alifayzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alifayzi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ai4iran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ai4iran" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ai4iran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ai4iran" height="30" width="40" /></a>
 </p>
 
 <!--
