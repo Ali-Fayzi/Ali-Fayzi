@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Fayzi</h1>
 <h3 align="center">A Blockchain(Solidity,Web3) and Machine Learning Engineer</h3>
-🎓 **Master's in Artificial Intelligence**  
-💻 **Blockchain and AI Developer | Researcher | Educator** 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-fayzi&label=Profile%20views&color=0e75b6&style=flat" alt="ali-fayzi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-fayzi" alt="ali-fayzi" /></a> </p>
